@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: |cff9482c9One|r|cff33ff33Demon|r
+## Notes: Warlock demon summons on one button with a flyout. Left-click summons, right-click chooses.
+## Author: Welshdroo
+## Version: 1.0
+## Category: Combat
+## IconTexture: Interface\AddOns\OneDemon\icon
+## SavedVariables: OneDemonDB
+
+OneDemon.lua
