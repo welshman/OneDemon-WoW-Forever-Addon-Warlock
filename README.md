@@ -50,19 +50,6 @@ The addon only loads on Warlock characters.
 - Forever uses the modern addon API, so this addon is not intended for Classic Era clients.
 - If a demon is missing from the flyout, it either isn't learned yet or uses a spell ID the addon doesn't know about. Please report it.
 
-## Known issues
-
-- Felguard may not appear until its spell ID is confirmed for Forever.
-
 ## Feedback
 
 Found a bug or a missing demon? Leave a comment or open an issue with the exact message from `/oddebug` and any Lua error text.
-
----
-
-## Changelog
-
-**1.0**
-- Initial release
-- One-button demon summoning with right-click flyout
-- Options panel and keybinding support
