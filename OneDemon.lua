@@ -1,5 +1,5 @@
 local ADDON = ...
-local SPELLS = { 688, 697, 712, 691, 30146 } -- Imp, Voidwalker, Succubus, Felhunter, Felguard
+local SPELLS = { 688, 697, 712, 691, 713 } -- Imp, Voidwalker, Succubus, Felhunter, Incubus
 local SIZE, GAP = 44, 4
 
 BINDING_HEADER_ONEDEMON = "OneDemon"
